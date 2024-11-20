@@ -1,0 +1,13 @@
+body {
+font-family: 'Poppins', sans-serif;
+user-select: none;
+-webkit-user-select: none; /* Safari */
+}
+
+input[type="text"] {
+    -webkit-user-select: auto; /* Safari */
+    user-select: auto;
+  }
+  a {
+    -webkit-touch-callout: none;
+  }
